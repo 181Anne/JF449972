@@ -1,1 +1,3 @@
 # JF449972
+
+Tento repozitář jsem založil, jelikož a protože bylo mi tak zadáno v úkolu...
